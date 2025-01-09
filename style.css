@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    background-image:url(./bg.png), linear-gradient(-45deg,rgba(143,188,121,255)50%,rgba(155,195,135,255)50%);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    background-color: rgba(144,188,121,255);
+}
+.btn1{
+    background-color: rgba(27,40,0,255);
+}
+.a1{
+    color: #112902;
+}
+.btn2{
+    color: #112902 !important;
+    border: 3px solid #112902 !important;
+}
+.span{
+    color: #112902 !important;
+    font-weight: 100;
+}
+.h-1{
+    font-size: 70px !important;
+}
+.h-4{
+    font-weight: 100;
+    font-size: 30px !important;
+}
+.about-section{
+    height: 100vh;
+}
+.card{
+    background-image:linear-gradient(-45deg,rgba(143,188,121,255)50%,rgba(155,195,135,255)50%);
+    height: 300px;
+}
